@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+recipe app ui
+
+![abdellatif idrissi](https://github.com/dev2informa/Recipe-application--Flutter-UI/blob/master/ui.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
